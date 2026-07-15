@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="O" size="10.000000 7.500000" />
+    <ImageTarget name="N" size="10.000000 7.500000" />
+    <ImageTarget name="M" size="10.000000 7.500000" />
+    <ImageTarget name="I" size="10.000000 7.500000" />
+    <ImageTarget name="E" size="10.000000 7.500000" />
+    <ImageTarget name="L" size="10.000000 7.500000" />
+    <ImageTarget name="G" size="10.000000 7.500000" />
+    <ImageTarget name="K" size="10.000000 7.500000" />
+    <ImageTarget name="A" size="10.000000 7.500000" />
+    <ImageTarget name="D" size="10.000000 7.500000" />
+    <ImageTarget name="Y" size="10.000000 7.500000" />
+    <ImageTarget name="W" size="10.000000 7.500000" />
+    <ImageTarget name="U" size="10.000000 7.500000" />
+    <ImageTarget name="T" size="10.000000 7.500000" />
+    <ImageTarget name="S" size="10.000000 7.500000" />
+    <ImageTarget name="R" size="10.000000 7.500000" />
+  </Tracking>
+</QCARConfig>
