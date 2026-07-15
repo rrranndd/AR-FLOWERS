@@ -1,6 +1,6 @@
 # AR-FLOWERS
 
-Aplikasi Pembelajaran Nama Bunga Berbasis Augmented Reality (AR) untuk Anak Tunarungu menggunakan Unity dan Vuforia.
+Aplikasi Pembelajaran Nama Bunga Berbasis Augmented Reality (AR) untuk Anak Tunarungu
 
 ## Fitur
 
@@ -17,7 +17,7 @@ Aplikasi Pembelajaran Nama Bunga Berbasis Augmented Reality (AR) untuk Anak Tuna
 - Vuforia Engine 11.4.4
 - C#
 
-## Catatan Penting
+## Catatan
 
 Repository ini tidak menyertakan file Vuforia package karena melebihi batas ukuran file GitHub.
 
